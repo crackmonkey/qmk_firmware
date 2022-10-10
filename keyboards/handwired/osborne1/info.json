@@ -1,6 +1,6 @@
 {
     "manufacturer": "crackmonkey",
-    "keyboard_name": "osborne1",
+    "keyboard_name": "Osborne 1",
     "maintainer": "crackmonkey",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
@@ -15,7 +15,7 @@
     },
     "matrix_pins": {
         "cols": ["D3", "D2", "F0", "F1", "F4", "F5", "F6", "F7"],
-        "rows": ["D0", "B7", "B5", "C6", "D1", "B6", "D7", "D6"]
+        "rows": ["D0", "B7", "C6", "D1", "B6", "D7", "D6", "C7"]
     },
     "processor": "atmega32u4",
     "bluetooth": {
