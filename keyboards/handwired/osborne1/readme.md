@@ -2,10 +2,10 @@
 
 ![osborne1](https://i.imgur.com/221nQ5Eh.jpeg)
 
-The Osborne keyboard doesn't contain any electronics, so the pins of the 8x8 keyboard matrix are easily available right on the normal connector. 17 jumper wires and a Feather BlueFruit is all the additional hardware needed.
+The Osborne keyboard doesn't contain any electronics, so the pins of the 8x8 keyboard matrix are available right on the normal connector.  An [Adafruit Feather 32u4 Bluefruit LE](https://www.adafruit.com/product/2829) and the adapter PCB or 17 jumper wires is all the additional hardware needed.
 
 * Keyboard Maintainer: [crackmonkey](https://github.com/crackmonkey)
-* Hardware Supported: Adafruit Feather BlueFruit 32u4
+* Hardware Supported: Adafruit Feather BlueFruit 32u4 with this [adapter PCB](https://github.com/crackmonkey/osborne1_kbd_featherwing)
 * Hardware Availability: E-waste
 
 Make example for this keyboard (after setting up your build environment):
